@@ -1,5 +1,5 @@
 ---
-title: ☕️ Java 30일 안에 기초 떼기 Prologue
+title: ☕️ Java 30일 안에 기초 떼기/ Prologue
 author: Yon Kim
 date: 2021-05-04 23:00:00 +0900
 categories: [Language, Java]
