@@ -211,22 +211,22 @@ tags: [2021정보처리기사_필기요약본]
 ## **참고자료 목록**
 ---
 
-> [IT 프로그래밍 개발을 위햔 얕고 넓은 배경지식(1)](https://y-oni.tistory.com/190?category=933129)
- [IT 프로그래밍 개발을 위햔 얕고 넓은 배경지식(2)](https://y-oni.tistory.com/191?category=933129)
- [C언어 기초(1)](https://y-oni.tistory.com/177?category=943077)
- [C언어 기초(2)](https://y-oni.tistory.com/179?category=943077)
- [C언어 기초(3)](https://y-oni.tistory.com/180?category=943077)
- [C언어 기초(4)](https://y-oni.tistory.com/181?category=943077)
- [C언어 기초(5)](https://y-oni.tistory.com/183?category=943077)
- [CASE & HIPO란?](https://y-oni.tistory.com/25?category=943077)
- [객체지향기법이란?](https://y-oni.tistory.com/27?category=943077)
- [캡슐화란?](https://y-oni.tistory.com/28?category=943077)
- [소프트웨어 아키텍처란?](https://y-oni.tistory.com/39?category=943077)
- [유스케이스란?](https://y-oni.tistory.com/50?category=943077)
- [디자인패턴 GoF란?](https://y-oni.tistory.com/53?category=943077)
- [공통모듈이란?](https://y-oni.tistory.com/47?category=943077)
- [사칙연산의 우선순위는?](https://y-oni.tistory.com/69?category=943077)
- [IPC란?](https://y-oni.tistory.com/77?category=943077)
+> * [IT 프로그래밍 개발을 위햔 얕고 넓은 배경지식(1)](https://y-oni.tistory.com/190?category=933129)
+> * [IT 프로그래밍 개발을 위햔 얕고 넓은 배경지식(2)](https://y-oni.tistory.com/191?category=933129)
+> * [C언어 기초(1)](https://y-oni.tistory.com/177?category=943077)
+> * [C언어 기초(2)](https://y-oni.tistory.com/179?category=943077)
+> * [C언어 기초(3)](https://y-oni.tistory.com/180?category=943077)
+> * [C언어 기초(4)](https://y-oni.tistory.com/181?category=943077)
+> * [C언어 기초(5)](https://y-oni.tistory.com/183?category=943077)
+> * [CASE & HIPO란?](https://y-oni.tistory.com/25?category=943077)
+> * [객체지향기법이란?](https://y-oni.tistory.com/27?category=943077)
+> * [캡슐화란?](https://y-oni.tistory.com/28?category=943077)
+> * [소프트웨어 아키텍처란?](https://y-oni.tistory.com/39?category=943077)
+> * [유스케이스란?](https://y-oni.tistory.com/50?category=943077)
+> * [디자인패턴 GoF란?](https://y-oni.tistory.com/53?category=943077)
+> * [공통모듈이란?](https://y-oni.tistory.com/47?category=943077)
+> * [사칙연산의 우선순위는?](https://y-oni.tistory.com/69?category=943077)
+> * [IPC란?](https://y-oni.tistory.com/77?category=943077)
 
 
 
