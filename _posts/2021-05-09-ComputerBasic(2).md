@@ -18,3 +18,5 @@ tags: [Computer_Basic]
 👀 [IT 프로그래밍, 개발을 위한 얕고 넓은 배경지식(2)](https://y-oni.tistory.com/191?category=933129)
 > 프로그램, 프로그래밍 언어의 분류
 
+👀 [IT 프로그래밍, 개발을 위한 얕고 넓은 배경지식(3)](https://y-oni.tistory.com/227?category=933129)
+> 네트워크, 프로토콜, 클라이언트-서버
