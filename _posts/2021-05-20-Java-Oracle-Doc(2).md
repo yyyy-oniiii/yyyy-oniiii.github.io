@@ -1,5 +1,5 @@
 ---
-title: ☕️ [Java] Oracle 매뉴얼 번역 (1)
+title: ☕️ [Java] Oracle 매뉴얼 번역 (2)
 author: Yon Kim
 date: 2021-05-19 20:00:00 +0900
 categories: [☕️Java, Java-Oracle Official Manual]
