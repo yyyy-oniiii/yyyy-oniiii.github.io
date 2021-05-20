@@ -2,7 +2,7 @@
 title: ☕️ [Java] 30일 안에 기초 떼기/ Prologue
 author: Yon Kim
 date: 2021-05-03 23:00:00 +0900
-categories: [☕Java, Do it! Java Programming]
+categories: [☕️Java, Do it! Java Programming]
 tags: [java]
 ---
 
