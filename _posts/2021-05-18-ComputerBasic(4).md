@@ -2,7 +2,7 @@
 title: 💻 [Computer Basic] 리눅스(Linux) 명령어 모음
 author: Yon Kim
 date: 2021-05-18 11:00:00 +0900
-categories: [Computer, Basic]
+categories: [💻Computer, Computer_Basic]
 tags: [Computer_Basic]
 ---
 

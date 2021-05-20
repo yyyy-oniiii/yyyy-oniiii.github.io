@@ -2,7 +2,7 @@
 title: 💻 [Computer Basic] 😎개발자를 위한 Windows 개발환경 세팅
 author: Yon Kim
 date: 2021-05-18 10:00:00 +0900
-categories: [Computer, Basic]
+categories: [💻Computer, Computer_Basic]
 tags: [Computer_Basic]
 ---
 

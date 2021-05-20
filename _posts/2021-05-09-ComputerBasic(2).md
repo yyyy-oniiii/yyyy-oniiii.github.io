@@ -2,7 +2,7 @@
 title: 💻 [Computer Basic] IT 프로그래밍, 개발을 위한 얕고 넓은 배경지식
 author: Yon Kim
 date: 2021-05-09 10:00:00 +0900
-categories: [Computer, Basic]
+categories: [💻Computer, Computer_Basic]
 tags: [Computer_Basic]
 ---
 

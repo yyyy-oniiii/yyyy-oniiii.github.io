@@ -2,7 +2,7 @@
 title: 💻 [Computer Basic] Windows 기본 명령어
 author: Yon Kim
 date: 2021-05-09 08:00:00 +0900
-categories: [Computer, Basic]
+categories: [💻Computer, Computer_Basic]
 tags: [Computer_Basic]
 ---
 
