@@ -17,7 +17,8 @@ tags: [Math_Pre Algebra]
 #### 🧙‍♂️ **Composite numbers: have more than 2 way that they can be divided into equal groups**
 #### 🧙‍♂️ "When there is only one possible way to divide a number into equal sized groups, that number is PRIME"
 #### 🧙‍♂️ "Prime Factorization": break a number untill they got only prime numbers and times of them
-#### 🧙‍♂️ "Exponential notation":
+#### 🧙‍♂️ "GCD": Greatest Common divisor (최대공약수)
+#### 🧙‍♂️ "LCM": Least Common Multiple (최소공배수)
 
 <br><br>
 
@@ -31,7 +32,8 @@ tags: [Math_Pre Algebra]
 
 - **Multiple**: A multiple is a number that results when we multiply one whole number by another whole number. The 1st four multiples of `3` are 3, 6, 9 and 12 because:
 
-```
+
+```java
 
     `3 x 1 = 3`
     `3 x 2 = 6`
@@ -45,7 +47,8 @@ tags: [Math_Pre Algebra]
 - **Composite**: Divisible by more than 2 numbers(4, 6, 8, 9 ...)
 - **neither**: `1` (only has 1 as a factor = Neither Prime or Composite )
 
-```
+
+```java
 
     ex) `2` is divisible by `1 and 2`(exactly 2 natural numbers), So **2 IS a prime number**
     ex) `3` is also a prime number (divisible by 1 and 3)
@@ -57,7 +60,61 @@ tags: [Math_Pre Algebra]
 
 - **Prime factorization**
 
-```
+
+```java
     Q) What is the prime factorization of 30? = 2(smallest prime number) x 15 = 2 x 3 x 5
     Q) What is the prime factorization of 73? = 73
+```
+
+- **Common divisibility examples**
+
+- All numbers divisible by 12 & 20 are also divisible by "N"
+
+```java
+
+    Q)  prime factorization 9 = 3 x 3 
+        prime factorization 24 = 2 x 2 x 2 x 3
+        prime factorization 9 & 24 = 2 x 2 x 2 x 3 x 3
+
+        N = 9 (3 x 3), 8 (2 x 2 x 2) ... = Common divisibility
+
+```
+
+- **Least common multiple**
+
+
+```java
+
+    Q)   What is the least common multiple of 18 and 12 
+         (Another way to say this is: lcm(18, 12) = ? )
+         * lcm = least common multiple
+
+    A)  factorization of 18 = 2 x 9 = 2 x 3 x 3 
+        factorization of 12 = 2 x 6 = 2 x 2 x 3
+
+        lcm(18, 12) = 2 x 2 x 3 x 3 = 36
+
+```
+
+
+- **Greatest common divisor**
+
+```java
+
+    Q)  What is the greatest common divisor of 10 and 7?
+        (Another way to say this is: gcd(10, 7) = ? )
+        * gcd = greatest common divisor 
+
+
+    A1)  factors of 10 = 1, 2, 5, 10 
+         factors of 7 = 1, 7
+
+         gcd(10, 7) = 1
+
+
+    A2)  factorization of 10 = 1 x 2 x 5
+         factorization of 7 = 1 x 7
+
+         gcd(10, 7) = 1
+
 ```
