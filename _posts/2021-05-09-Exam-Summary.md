@@ -189,17 +189,21 @@ tags: [2021정보처리기사_필기요약본]
 ---
 
 ### 🎅 5-1 소프트웨어 개발 방법론 활용 ###
-> * (업데이트 예정)
+> * [소프트웨어 개발 방법론 활용(1)](https://y-oni.tistory.com/216)
+> * [소프트웨어 개발 방법론 활용(2)](https://y-oni.tistory.com/217)
 
 <br>
 
 ### 🎅 5-2 IT 프로젝트 정보 시스템 구축 관리 ###
-> * (업데이트 예정)
+> * [IT 프로젝트 정보시스템 구축관리(1)](https://y-oni.tistory.com/220?category=934886)
+> * [IT 프로젝트 정보시스템 구축관리(2)](https://y-oni.tistory.com/221?category=934886)
+> * [IT 프로젝트 정보시스템 구축관리(3)](https://y-oni.tistory.com/222?category=934886)
 
 <br>
 
 ### 🎅 5-3 소프트웨어 개발 보안 구축 ###
-> * (업데이트 예정)
+> * [소프트웨어 개발 보안 구축(1)](https://y-oni.tistory.com/224?category=934886)
+> * [소프트웨어 개발 보안 구축(2)](https://y-oni.tistory.com/225?category=934886)
 
 <br>
 
