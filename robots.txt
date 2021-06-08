@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://yyyy-oniiii.github.io/sitemap.xml
